@@ -10,4 +10,4 @@ text here
 
 ## this is even smaller headline
 
-![](tranquil.png)
+![](Tranquil.png)
